@@ -44,5 +44,5 @@
 
 1. **استنساخ المستودع (Clone the repository):**
    ```bash
-   git clone [https://github.com/yourusername/Pro-WebP-Optimizer.git](https://github.com/yourusername/Pro-WebP-Optimizer.git)
+   git clone [https://github.com/Turki-Alshaikh/Pro-WebP-Optimizer.git](https://github.com/Turki-Alshaikh/Pro-WebP-Optimizer.git)
    cd Pro-WebP-Optimizer
