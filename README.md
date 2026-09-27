@@ -1,15 +1,38 @@
+<div align="center">
+  <img src="icon.png" alt="Pro WebP Optimizer Logo" width="120">
 
-# 🖼️ Pro WebP Optimizer Suite | Ultimate Batch Image Compressor & WebP Converter
+  # Pro WebP Optimizer Suite
+  **Ultimate Batch Image Compressor & WebP Converter**
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-brightgreen)
-![Pillow](https://img.shields.io/badge/Image_Processing-Pillow-yellow)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-orange)
+  ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+  ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-brightgreen)
+  ![Pillow](https://img.shields.io/badge/Image_Processing-Pillow-yellow)
+  ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+  ![License](https://img.shields.io/badge/License-MIT-orange)
+</div>
+
+<br>
 
 **Pro WebP Optimizer Suite** is a powerful, open-source desktop application built with Python to optimize, compress, and bulk-convert images (PNG, JPG, JPEG) to the next-generation **WebP format**. 
 
 Designed specifically for **Web Developers, SEO Experts, and E-commerce Owners**, this tool drastically reduces image file sizes without compromising visual quality. Boost your website's loading speed, improve your **Core Web Vitals**, and rank higher on Google by serving highly optimized WebP images!
+
+---
+
+## 📸 Application Interface
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">English Interface 🇺🇸</th>
+      <th align="center">Arabic Interface 🇸🇦</th>
+    </tr>
+    <tr>
+      <td align="center"><img src="Pro-WebP-Optimizer_en_ui.png" alt="English UI" width="450"/></td>
+      <td align="center"><img src="Pro-WebP-Optimizer_ar_ui.png" alt="Arabic UI" width="450"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -30,7 +53,7 @@ Designed specifically for **Web Developers, SEO Experts, and E-commerce Owners**
 
 * **📈 SEO & Core Web Vitals:** Google loves fast websites. Converting heavy JPG/PNGs to WebP is the #1 recommendation by Google PageSpeed Insights to improve LCP (Largest Contentful Paint).
 * **🛒 E-Commerce Platforms (Shopify, WooCommerce):** Reduce bounce rates by ensuring your high-quality product images load instantly for mobile users.
-* **👨‍💻 Web Development:** A secure, local alternative to paid cloud image compressors like TinyPNG. Your files stay on your machine.
+* **👨‍💻 Web Development:** A secure, local alternative to paid cloud image compressors like TinyPNG. Your files stay securely on your machine.
 
 ---
 
@@ -47,8 +70,8 @@ Designed specifically for **Web Developers, SEO Experts, and E-commerce Owners**
 ### 🚀 Option 1: The Easy Way (Download Portable EXE)
 No Python installation required! Just download the standalone Windows executable and start compressing.
 1. Go to the **[Releases Page](../../releases/latest)**.
-2. Download **`Pro-WebP-Optimizer.exe`** (Look for our sleek custom `icon.ico` design!).
-3. Double-click to run. It's completely portable.
+2. Download **`Pro-WebP-Optimizer.exe`**.
+3. Double-click to run. It's completely portable and includes our custom sleek icon.
 
 ---
 
@@ -102,6 +125,3 @@ If this tool helped you save space, speed up your website, or improve your SEO, 
 
 This project is [MIT](https://www.google.com/search?q=LICENSE&utm_source=gemini) licensed. Free to use, modify, and distribute.
 
-```
-
-```
