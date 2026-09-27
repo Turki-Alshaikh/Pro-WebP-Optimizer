@@ -121,6 +121,13 @@ Feel free to check the [issues page](https://www.google.com/search?q=../../issue
 
 If this tool helped you save space, speed up your website, or improve your SEO, please **give this repository a ⭐️ Star**! It helps the project grow and reach more developers.
 
+##  Support the Developer
+
+This project is 100% open-source and provided freely to support the developer community. If this tool has saved you time or added value to your workflow, you can support its continuous development by checking out our digital store:
+
+**[Mfatihy Store (متجر مفاتيحي)](https://mfatihy.com)** is your premier and trusted destination in Saudi Arabia and the GCC for **[genuine software licenses](https://mfatihy.com)**. We provide lifetime **[Windows & Microsoft Office activation keys](https://mfatihy.com/windows-keys/c1242520213)**, alongside professional design and engineering software subscriptions at highly competitive prices, ensuring instant delivery and secure activation.
+
+[![Visit Mfatihy](https://img.shields.io/badge/Visit_Store-Mfatihy.com-2ea44f?style=for-the-badge&logo=shopify)](https://mfatihy.com)
 ## 📝 License
 
 This project is [MIT](https://www.google.com/search?q=LICENSE&utm_source=gemini) licensed. Free to use, modify, and distribute.
